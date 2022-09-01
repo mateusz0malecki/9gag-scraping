@@ -1,0 +1,31 @@
+# scraping
+bs4==0.0.1
+requests==2.28.1
+
+# api framework
+fastapi==0.80.0
+uvicorn==0.18.3
+
+# sql orm
+SQLAlchemy==1.4.40
+psycopg2==2.9.3
+
+# docker workflow
+wait-for-it==2.2.1
+
+# db migrations
+alembic==1.8.1
+
+# loading .env
+python-dotenv==0.20.0
+
+# async background worker
+celery==5.2.7
+flower==1.2.0
+
+# slack messages
+slack_sdk==3.18.1
+
+# interact with web pages
+selenium==4.4.3
+webdriver_manager==3.8.3
